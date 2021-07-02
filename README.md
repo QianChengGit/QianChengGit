@@ -1,3 +1,8 @@
+<h2 align="center">👋 欢迎访问我的GitHub</h2>
+<p align="center">
+  <a href="https://github.com/QianChengGit"><img src="https://img.shields.io/badge/GitHub-24aa2e" alt="github"/></a>
+</p>
+
 - 👋 嗨，我是 @QianChengGit
 - 👀 我的兴趣是专研一些新技术并制作一些小玩意儿！
 - 🌱 我目前正在学习SpringBoot框架！
@@ -6,13 +11,11 @@
 
 ## 博客
 
-https://qianchenggit.github.io/
+- 我的博客地址：https://qianchenggit.github.io/
 
 
 ## 技术栈 Github 统计
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=QianChengGit&show_icons=true">
-
-Java
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![IDEA](https://img.shields.io/badge/-IDEA-%23007ACC?style=for-the-badge&logo=IntelliJ-IDEA)
@@ -25,9 +28,9 @@ Java
 ![Spring](https://img.shields.io/badge/-Spring-%23F7DF1C?style=for-the-badge&logo=spring&logoColor=00FFAA&labelColor=%2300BB22&color=%00FFAA)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-%23F7DF1C?style=for-the-badge&logo=SpringBoot&logoColor=00FFAA&labelColor=%2300BB22&color=%00FF77)
 ![Android](https://img.shields.io/badge/-Android-%23F7DF1C?style=for-the-badge&logo=Android)
-![HTML](https://img.shields.io/badge/-html-%23F7DF1C?style=for-the-badge&logo=html)
-![CSS](https://img.shields.io/badge/-CSS-%23F7DF1C?style=for-the-badge&logo=CSS)
-![JavaScripte](https://img.shields.io/badge/-JavaScripte-%23F7DF1C?style=for-the-badge&logo=JavaScripte)
+![HTML](https://img.shields.io/badge/-Html-%23F7DF1C?style=for-the-badge&logo=Html&color=%23FFFF00)
+![CSS](https://img.shields.io/badge/-Css-%23F7DF1C?style=for-the-badge&logo=Css&color=%23FF5555)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=JavaScript&logoColor=005500&labelColor=%23CCFF55&color=%2300FF00)
 <!-- ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
 ![Node](https://img.shields.io/badge/-NodeJS-%23F05032?style=for-the-badge&logo=Node.js&logoColor=%23ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack) -->
