@@ -1,6 +1,7 @@
 <h2 align="center">👋 欢迎访问我的GitHub</h2>
 <p align="center">
   <a href="https://github.com/QianChengGit"><img src="https://img.shields.io/badge/GitHub-24aa2e" alt="github"/></a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=QianChengGit.QianChengGit" alt="visitor badge"/>
 </p>
 
 - 👋 嗨，我是 @QianChengGit
@@ -32,11 +33,7 @@
 ![Node](https://img.shields.io/badge/-NodeJS-%23F05032?style=for-the-badge&logo=Node.js&logoColor=%23ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack) -->
 
-<!-- 访客 -->
-## 访客量
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=QianChengGit.QianChengGit" alt="visitor badge"/>
-</p>
+
 <!---
 QianChengGit/QianChengGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
