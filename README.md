@@ -13,15 +13,12 @@
 
 - 我的博客地址：https://qianchenggit.github.io/
 
-
-## 技术栈 Github 统计
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=QianChengGit&show_icons=true&theme=buefy">
+## 技术栈和 Github 统计
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=QianChengGit&show_icons=true&theme=buefy"><br/>
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![IDEA](https://img.shields.io/badge/-IDEA-%23007ACC?style=for-the-badge&logo=IntelliJ-IDEA)
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-%23007ACC?style=for-the-badge&logo=Android-Studio)
-
-
 ![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=for-the-badge&logo=java&logoColor=0088ff&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Mysql](https://img.shields.io/badge/-Mysql-%23F7DF1C?style=for-the-badge&logo=mysql&logoColor=0088ff&labelColor=%23F7DF1C&color=%2300AAFF)
 ![Redis](https://img.shields.io/badge/-Redis-%23F7DF1C?style=for-the-badge&logo=redis&logoColor=ff00ff&labelColor=%23F7DF1C&color=%23FF00CC)
@@ -37,7 +34,6 @@
 
 <!-- 访客 -->
 ## 访客量
-
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=QianChengGit.QianChengGit" alt="visitor badge"/>
 </p>
