@@ -33,6 +33,8 @@
 ![Node](https://img.shields.io/badge/-NodeJS-%23F05032?style=for-the-badge&logo=Node.js&logoColor=%23ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack) -->
 
+## 个人GitHub信息：
+![Metrics](https://metrics.lecoq.io/QianChengGit?template=classic&languages=1&introduction=1&achievements=1&followup=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FShanghai&config.display=large)
 
 <!---
 QianChengGit/QianChengGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
