@@ -8,7 +8,7 @@
 - 👀 我的兴趣是专研一些新技术并制作一些小玩意儿！
 - 🌱 我目前正在学习SpringBoot框架！
 - 💞️ 我想寻找一些可以一起学习交流的小伙伴！
-- 📫 可以通过QQ邮箱：<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=ZVdRXVZUXVFcXVAlFBRLBgoI" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_22.png"/></a>联系我！
+- 📫 可以通过QQ邮箱：<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=ZR8ADQoLAksfDQQLAiUUFEsGCgg" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>联系我！
 
 ## 博客
 
