@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <a href="https://qianchenggit.github.io/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);%F0%9F%91%8B+%E5%97%A8%EF%BC%8C%E6%88%91%E6%98%AF+%40QianChengGit+;@QianChengGit+祝您今天愉快!;&center=true&size=27&duration=3000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);%F0%9F%91%8B+%E5%97%A8%EF%BC%8C%E6%88%91%E6%98%AF+%40QianChengGit+;@QianChengGit+祝您今天愉快!;&center=true&size=27&duration=5000">
   </a>
 </h1>
 
