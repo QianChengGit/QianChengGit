@@ -53,7 +53,8 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack) -->
 
 ### 个人GitHub信息：
-![Metrics](https://metrics.lecoq.io/QianChengGit?template=classic&languages=1&introduction=1&achievements=1&followup=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FShanghai&config.display=large)
+![Metrics](https://metrics.lecoq.io/QianChengGit?template=classic&isocalendar=1&languages=1&base.indepth=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai&config.display=columns)
+
 
 <!---
 QianChengGit/QianChengGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
