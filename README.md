@@ -13,25 +13,12 @@
 <!-- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&vCenter=true&multiline=true&width=400&height=40&lines=%F0%9F%91%8B+%E5%97%A8%EF%BC%8C%E6%88%91%E6%98%AF+%40QianChengGit+)](https://git.io/typing-svg)
  -->
-### 技术栈
-- Java语言
-- MySQL数据库
-- Redis数据库
-- Spring框架
-- SpringBoot框架
-- MyBatis框架
-- HTML
-- CSS
-- JavaScript
-- Vue.js框架
-- Android原生开发
+### 个人简介
 
-### 联系我
-- 📫 可以通过QQ邮箱联系我：<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=ZR8ADQoLAksfDQQLAiUUFEsGCgg" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>
+| 社交信息                                                     | 技术栈                                                       |
+| :----------------------------------------------------------- | :----------------------------------------------------------- |
+| - QQ邮箱：<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=ZR8ADQoLAksfDQQLAiUUFEsGCgg" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a><br />- 博客地址：<a target="_blank" href="https://qianchenggit.github.io/" style="text-decoration:none;">https://qianchenggit.github.io/</a> | - Java语言<br/>- MySQL数据库<br/>- Redis数据库<br/>- Spring框架<br/>- SpringBoot框架<br/>- MyBatis框架<br/>- HTML<br/>- CSS<br/>- JavaScript<br/>- Vue.js框架<br/>- Android原生开发 |
 
-### 博客
-
-- 我的博客地址：https://qianchenggit.github.io/
 
 ### Github 统计
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=QianChengGit&show_icons=true&theme=synthwave"><br/>
@@ -51,9 +38,6 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
 ![Node](https://img.shields.io/badge/-NodeJS-%23F05032?style=for-the-badge&logo=Node.js&logoColor=%23ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack) -->
-
-### 个人GitHub信息：
-![Metrics](https://metrics.lecoq.io/QianChengGit?template=classic&isocalendar=1&languages=1&base.indepth=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai)
 
 <!---
 QianChengGit/QianChengGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
