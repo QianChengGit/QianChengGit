@@ -34,7 +34,7 @@
 - 我的博客地址：https://qianchenggit.github.io/
 
 ### Github 统计
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=QianChengGit&show_icons=true&theme=buefy"><br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=QianChengGit&show_icons=true&theme=synthwave"><br/>
 
 <!--![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![IDEA](https://img.shields.io/badge/-IDEA-%23007ACC?style=for-the-badge&logo=IntelliJ-IDEA)
